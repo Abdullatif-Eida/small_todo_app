@@ -1,7 +1,3 @@
-# Project Name
-
-Provide a short description of what your app does and its key features.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -26,3 +22,9 @@ A step-by-step series of examples that tell you how to get a development environ
 git clone https://your-repository-url.com
 # Go into the repository
 cd your_project_name
+
+# Install dependencies
+flutter pub get
+
+# Run the app on a connected Android device or emulator
+flutter run
